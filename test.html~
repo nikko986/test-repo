@@ -4,7 +4,7 @@
 </head>
 <body>
 <marquee behavior="alternate" direction="up" scrollamount="90">
-asd
+<font color="yellow">asd</font>
 </marquee>
 </body>
 </html>
